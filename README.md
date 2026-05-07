@@ -10,3 +10,9 @@ Construction, training, and evaluation of 3 Deep Learning models, 2 with traditi
 - Interpretation of model evaluation metrics.
 - Transfer learning and fine-tuning of a pre-trained model.
 - Deployment of 3 models with 3 different Deep Learning architectures.
+
+
+The data used in the project was extracted from the source available at the link below:
+https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
+
+

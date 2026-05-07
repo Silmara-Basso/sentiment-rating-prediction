@@ -3,6 +3,7 @@ Construction, training, and evaluation of 3 Deep Learning models, 2 with traditi
 
 ### A summary of the activities performed in this project:
 - Text data processing with SpaCy.
+- Use of the Hugging Face platform.
 - Vectorization of text data.
 - Construction, training, and evaluation of 3 Deep Learning models, 2 with traditional architectures and 1 with a Transformer architecture (the objective is to compare the model construction procedures and performance).
 - Callbacks and optimization of the model training process.

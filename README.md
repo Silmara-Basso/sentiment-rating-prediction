@@ -16,3 +16,5 @@ The data used in the project was extracted from the source available at the link
 https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
 
 
+Note: I ran this using VSCode and Colab's free version with GPU support.
+The data files (dt_test.txt and dt_training.txt) were in my Google Drive in a folder called "data".
